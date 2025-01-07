@@ -4,7 +4,7 @@
   "description": "",
   "main": "src/taskManager.js",
   "scripts": {
-    "test": "tests/taskManager.test.js"
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
